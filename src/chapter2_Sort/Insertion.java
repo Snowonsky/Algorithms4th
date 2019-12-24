@@ -1,7 +1,7 @@
 package chapter2_Sort;
 
 /**
- * @Description:插入排序
+ * @Description:插入排序,对于部分有序的数组十分高效。
  * @Create: 2019-12-24-14:59
  */
 public class Insertion {
