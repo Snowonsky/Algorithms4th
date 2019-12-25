@@ -52,7 +52,7 @@ public class Merge_P_1 {
         }
     }
     public static void main(String[] args) {
-        Character[] a = {'M','E','R','G','E','S','O','R','T','E','X','A','M','P','L','E'};
+        Integer[] a = {58,77,30,26,981,868,998,666,254,318};
         sort(a);
         assert Example.isSorted(a);
         Example.show(a);
